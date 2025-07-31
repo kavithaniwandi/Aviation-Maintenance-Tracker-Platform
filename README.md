@@ -1,2 +1,2 @@
 # Aviation-Maintenance-Tracker-Platform
-Built a backend system in Java (Spring Boot) with PostgreSQL to manage aircraft maintenance workflows for airlines and operators. The system supports aircraft registration, job tracking, technician task assignment, overdue alerting, and RESTful API integration. Designed with aviation maintenance cycles.
+This is a full-stack backend project simulating an aviation maintenance job management system, designed to help airlines and air operators manage scheduled maintenance tasks, technician assignments, and aircraft records. The system is developed in Java using Spring Boot and PostgreSQL, following enterprise design patterns.
